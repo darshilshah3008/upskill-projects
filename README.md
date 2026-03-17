@@ -19,9 +19,9 @@ A local implementation of NotebookLM-style Retrieval-Augmented Generation using 
 
 ---
 
-🔹 AI Agents
+### 🔹 AI Agents
 
-Repo: https://github.com/darshilshah3008/AI_Agents
+**Repo:** https://github.com/darshilshah3008/AI_Agents
 A project focused on building multi-agent AI systems using CrewAI, covering beginner to intermediate workflows and real-world task execution.
 
 ---
